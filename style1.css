@@ -550,6 +550,9 @@ letter-spacing: 4px;
         padding-left: 10px;
         padding-right:70px;
       }
+    #form1{
+        margin-left: -20%;
+    }
 }
 @media(max-width:400px){
     .s-box{
